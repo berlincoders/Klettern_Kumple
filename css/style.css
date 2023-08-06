@@ -1,0 +1,39 @@
+#logo{
+
+    object-fit: cover;
+}
+#phone{
+    height: 600px;
+    width:auto
+}
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 24.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+ol, ul {
+    padding-left: 28rem;
+    color:black;
+    margin-bottom: -11rem;
+}
+h1{
+    font-family: 'Domine', serif;
+}
+#header{
+    font-family: 'Pacifico', cursive;
+    font-size: 8.5rem;
+}
